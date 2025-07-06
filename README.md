@@ -16,7 +16,7 @@ This repository contains a Power BI dashboard project that analyzes HR data to u
 | `HR_Analytics.pbix` | Power BI dashboard file containing all visuals and data |
 | `HR_Analytics.xlsx` | Source Excel dataset used in the report |
 | `HR_Analytics_Dashboard.pdf` | Exported static view of the dashboard for quick preview |
-| `screenshots/` | (Optional) Folder containing preview images of the dashboard |
+| `screenshots/` |  Folder containing preview images of the dashboard |
 
 ## 🚀 How to Use
 
